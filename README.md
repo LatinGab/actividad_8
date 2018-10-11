@@ -1,5 +1,5 @@
 ###### actividad-bootstrap-photogallery
 
-# Actividad - Álbum de Fotos
+# Actividad - Landing Page
 
-link: 
+link:
